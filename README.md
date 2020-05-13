@@ -1,4 +1,4 @@
-#setup
+# setup
 
 ```shell script
 $ cat /etc/default/grub | grep GRUB_CMDLINE_LINUX
@@ -13,6 +13,7 @@ $ sudo update-grub
 
 
 ```shell script
+./run.sh
 
 ------------------------
 running 128m_jvm_no_arg -> memory=128m -> arguments=
